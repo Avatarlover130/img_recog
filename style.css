@@ -1,0 +1,20 @@
+body {
+    color:darkmagenta;
+    background:lightpink;
+}
+
+.heading {
+    width: 80%;
+    font-size: 25px;
+}
+
+.name_of_objects, #result_object_name, #result_object_accuaracy {
+    color: lightseagreen;
+    
+}
+
+#camera {
+    border: 2px dashed lightseagreen;
+    width: 350px;
+    height: 300px;
+}
